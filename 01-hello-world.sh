@@ -1,8 +1,8 @@
 #!/bin/bash
 
 echo "I am learning devops with AWS"
-PERSION1=RAMESH
-PERSION2=SURESH
+PERSION1=VIRAT
+PERSION2=ROHIT
 echo "$PERSION1: Hi $PERSION2, good morning"
 echo "$PERSION2: Hi $PERSION1, good morinig"
 echo "$PERSION1: How are you $PERSION2"
