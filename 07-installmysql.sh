@@ -10,12 +10,12 @@ then
 fi
 
 #it is our responsibility to check installation is successful or not
-yum intall mysql -y
+yum intall git -y
 
 if [ $? -ne 0 ]
 then
-    echo "installation of mysql is failure"
+    echo "installation of git is failure"
     exit 1
 else
-    echo "installation of mysql is success"
+    echo "installation of git is success"
 fi
